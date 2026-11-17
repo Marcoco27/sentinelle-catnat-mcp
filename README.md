@@ -94,6 +94,7 @@ A minimal Python client with the official `x402` SDK is in [`examples/pay_mcp.py
 
 ## Also listed on
 
+- [PayAPI Market](https://payapi.market/api/sentinelle-catnat-fr): verified listing, with a settled paid call
 - [data.gouv.fr reuse](https://www.data.gouv.fr/reuses/sentinelle-catnat-arretes-de-catastrophe-naturelle-et-delai-de-declaration-de-sinistre-pour-agents-ia)
 - Coinbase x402 Bazaar
 - Official MCP Registry: `io.github.Marcoco27/sentinelle-catnat`
